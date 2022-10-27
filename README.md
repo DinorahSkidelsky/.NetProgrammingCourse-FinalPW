@@ -1,4 +1,4 @@
-# .NetProgrammingCourse-FinalPW
+## .NetProgrammingCourse-FinalPW
 
 From the given database, create an application that allows the administration of employees of a business. The program must have the following functionality:
 1. List the employees in a dataGridView with information obtained from the database. The "Id" should not be shown in the list, but it should be (hide columns). In addition, the grid must not be editable.
